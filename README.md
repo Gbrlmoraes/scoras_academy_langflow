@@ -1,2 +1,2 @@
-# scoras_academy_langflow
-Projetos práticos desenvolvidos nos cursos de langflow da scoras academy
+# Scoras Academy Langflow
+Projetos práticos desenvolvidos nos cursos de langflow da [Scoras Academy](https://scoras.com.br/academy/)
